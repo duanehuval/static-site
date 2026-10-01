@@ -1,0 +1,6 @@
+[build]
+command = "hugo"
+output_dir = "public"
+
+[build.environment]
+HUGO_VERSION = "0.140.0"
