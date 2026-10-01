@@ -1,6 +1,6 @@
 name = "static-site"
 compatibility_date = "2026-01-01"
+main = "workers-site/index.js"
 
 [site]
 bucket = "./public"
-main = "workers-site/index.js"
